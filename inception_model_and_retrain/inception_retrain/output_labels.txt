@@ -1,0 +1,4 @@
+guitar
+house
+motor
+plane
